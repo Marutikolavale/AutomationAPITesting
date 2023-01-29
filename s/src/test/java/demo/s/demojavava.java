@@ -6,8 +6,8 @@ public class demojavava {
 		// TODO Auto-generated method stub{
 		System.out.println("Maruti kolavale");
 
-		
-}
+
 	}
+}
 
 
