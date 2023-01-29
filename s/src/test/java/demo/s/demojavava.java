@@ -9,6 +9,22 @@ public class demojavava {
 		System.out.println("Maruti kolavale");
 		System.out.println("Maruti kolavale");
 		System.out.println("Maruti kolavale");
+		System.out.println("Maruti kolavale");
+		System.out.println("Maruti kolavale");
+		System.out.println("Maruti kolavale");
+		System.out.println("Maruti kolavale");
+		System.out.println("Maruti kolavale");
+		System.out.println("Maruti kolavale");
+		System.out.println("Maruti kolavale");
+		System.out.println("Maruti kolavale");
+		System.out.println("Maruti kolavale");
+		System.out.println("Maruti kolavale");
+		System.out.println("Maruti kolavale");
+		System.out.println("Maruti kolavale");
+		System.out.println("Maruti kolavale");System.out.println("Maruti kolavale");
+		System.out.println("Maruti kolavale");
+		System.out.println("Maruti kolavale");System.out.println("Maruti kolavale");
+		
 }
 	}
 
