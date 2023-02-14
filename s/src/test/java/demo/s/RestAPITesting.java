@@ -6,11 +6,12 @@ import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
 public class RestAPITesting {
-@Test
+	@Test
 	public void nana()
 	{
- Response res=RestAssured.get("https://reqres.in/api/users/2");
- System.out.println(res.asString());
-		
+		Response res=RestAssured.get("https://reqres.in/api/users/2");
+		System.out.println(res.asString());
+		System.out.println(res.getContentType());
+
 	}
 }
