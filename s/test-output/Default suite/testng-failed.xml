@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="demo.s.RestAPITesting">
+      <class name="Session03.put">
         <methods>
-          <include name="nana"/>
+          <include name="put1"/>
         </methods>
-      </class> <!-- demo.s.RestAPITesting -->
+      </class> <!-- Session03.put -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

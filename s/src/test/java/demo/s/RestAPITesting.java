@@ -11,7 +11,7 @@ public class RestAPITesting {
 	{
 		Response res=RestAssured.get("https://reqres.in/api/users/2");
 		System.out.println(res.asString());
-		System.out.println(res.getContentType());
+		System.out.println("status code is:"+res.getStatusCode());
 
 	}
 }
