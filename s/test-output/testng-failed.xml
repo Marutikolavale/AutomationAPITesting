@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Session03.put">
+      <class name="Session06.verifiyBody">
         <methods>
-          <include name="put1"/>
+          <include name="AS"/>
         </methods>
-      </class> <!-- Session03.put -->
+      </class> <!-- Session06.verifiyBody -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
