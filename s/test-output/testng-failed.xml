@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Session07.QueryParamter">
+      <class name="Session10.Apikey">
         <methods>
-          <include name="FF"/>
+          <include name="Key"/>
         </methods>
-      </class> <!-- Session07.QueryParamter -->
+      </class> <!-- Session10.Apikey -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
