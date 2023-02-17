@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-17T11:18:01 IST" name="Default suite" finished-at="2023-02-17T11:18:04 IST" duration-ms="2758">
+  <suite started-at="2023-02-17T15:18:28 IST" name="Default suite" finished-at="2023-02-17T15:18:32 IST" duration-ms="3686">
     <groups>
     </groups>
-    <test started-at="2023-02-17T11:18:01 IST" name="Default test" finished-at="2023-02-17T11:18:04 IST" duration-ms="2758">
-      <class name="Session07.QueryParamter">
-        <test-method signature="FF()[pri:0, instance:Session07.QueryParamter@25be7b63]" started-at="2023-02-17T11:18:01 IST" name="FF" finished-at="2023-02-17T11:18:04 IST" duration-ms="2712" status="PASS">
+    <test started-at="2023-02-17T15:18:28 IST" name="Default test" finished-at="2023-02-17T15:18:32 IST" duration-ms="3686">
+      <class name="Seesion08.DigestAuto">
+        <test-method signature="d()[pri:0, instance:Seesion08.DigestAuto@25be7b63]" started-at="2023-02-17T15:18:28 IST" name="d" finished-at="2023-02-17T15:18:32 IST" duration-ms="3631" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- FF -->
-      </class> <!-- Session07.QueryParamter -->
+        </test-method> <!-- d -->
+      </class> <!-- Seesion08.DigestAuto -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
