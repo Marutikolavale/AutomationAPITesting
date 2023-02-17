@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Session10.Apikey">
+      <class name="Session12.desserlaztionjsondata">
         <methods>
-          <include name="Key"/>
+          <include name="createuser"/>
         </methods>
-      </class> <!-- Session10.Apikey -->
+      </class> <!-- Session12.desserlaztionjsondata -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
